@@ -1,0 +1,3 @@
+﻿  Training_STLs_Week 1.cpp
+D:\Self Development\Zewail collage material\Year 2\ICPC\Training weeks\Training_STLs_Week 1\Training_STLs_Week 1.cpp(648,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>'
+  Training_STLs_Week 1.vcxproj -> D:\Self Development\Zewail collage material\Year 2\ICPC\Training weeks\Training_STLs_Week 1\x64\Debug\Training_STLs_Week 1.exe
